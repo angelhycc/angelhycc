@@ -8,7 +8,7 @@ hihi world
   
 [![Angelhycc's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelhycc&hide=stars,issues&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="center" alt="" width="400" src="taiwan.png" >
+  <img align="center" alt="" width="100%" src="taiwan.png" >
 
 <!--
 **angelhycc/angelhycc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
