@@ -1,6 +1,6 @@
 hihi world
 
-  <img align="right" alt="" width="400" src="taiwan.png" >
+  <img align="center" alt="" width="400" src="taiwan.png" >
 
   
 [![Angelhycc's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelhycc&hide=stars,issues&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
