@@ -8,8 +8,7 @@
 
 
 - 📫 How to reach me: <a href="www.linkedin.com/in/angel-cheng-a568391a2/"> LinkedIn </a>
-  
-[![Angelhycc's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelhycc&hide=stars,issues&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelhycc&theme=dark)](https://git.io/streak-stats)
 
   <img align="center" alt="" width="100%" src="taiwan.png" >
