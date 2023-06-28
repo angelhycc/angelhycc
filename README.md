@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning visual SLAM
 
-- 
 - 🤔 I’m looking for a job in software engineering
 
 
