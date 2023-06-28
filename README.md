@@ -1,5 +1,5 @@
 hihi world
-[![Angelhycc's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelhycc)](https://github.com/anuraghazra/github-readme-stats)
+[![Angelhycc's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelhycc&hide=contribs,prs,stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
