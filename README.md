@@ -7,20 +7,8 @@ hihi world
 
   
 [![Angelhycc's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelhycc&hide=stars,issues&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🔭 I’m currently working on a personal website
+- 🌱 I’m currently learning visual SLAM
+- 🤔 I’m looking for a job in software engineering 
+- 📫 How to reach me: <a href="www.linkedin.com/in/angel-cheng-a568391a2/"> LinkedIn </a>
   <img align="center" alt="" width="100%" src="taiwan.png" >
-
-<!--
-**angelhycc/angelhycc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a personal
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
